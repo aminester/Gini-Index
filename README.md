@@ -1,6 +1,7 @@
 # Gini Coefficient Predictor for 2030
 
-![Project Banner](Screenshot 2024-09-29 at 4.35.03 PM.png)
+<img width="1440" alt="Screenshot 2024-09-29 at 4 35 03 PM" src="https://github.com/user-attachments/assets/41593cc6-cbdb-48f5-8362-a2ccfb59f85e">
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
